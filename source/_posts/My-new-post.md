@@ -1,5 +1,5 @@
 ---
-title: My new post
+title: A new post
 date: 2017-12-10 14:45:50
 tags:
 ---
